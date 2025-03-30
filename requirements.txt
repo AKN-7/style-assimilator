@@ -1,0 +1,18 @@
+# UI Framework (Choose one later)
+gradio
+# streamlit
+
+# Core ML/Torch
+torch
+torchvision
+torchaudio
+
+# Hugging Face Libraries
+diffusers
+transformers
+accelerate
+huggingface_hub
+
+# Optional Performance/Utility
+bitsandbytes
+python-dotenv 

@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env*
+
+# Data and Models (temporary/generated)
+data/
+models/
+
+# ML/DL specific
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db 
